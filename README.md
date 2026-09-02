@@ -35,7 +35,7 @@ direct-field-transmutation/
 ├── LICENSE
 ├── .gitignore
 └── simulation/
-└── field_transmutation_sim.py
+└── simulation/field_transmutation_sim.py
 ```
 
 
