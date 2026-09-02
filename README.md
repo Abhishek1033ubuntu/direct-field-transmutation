@@ -1,5 +1,15 @@
 # Direct-Field Atom Transmutation & Non-Thermal Bond Rewriting Dynamics (DFAT-BRD)
 
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22250369.svg)](https://doi.org/10.5281/zenodo.22250369) 
+[![Theoretical Model](https://img.shields.io/badge/Model-Direct--Field%20Transmutation-orange.svg)](https://github.com/Abhishek1033ubuntu/direct-field-transmutation)
+[![Co-Authored with AI](https://img.shields.io/badge/Co--Authored%20with-Gemini%20Thought%20Partner-7057ff.svg)](#acknowledgements)
+[![Hardware Status](https://img.shields.io/badge/Hardware-Deemed%20Future%20Tech-red.svg)](#explicit-technology-readiness--hardware-disclaimer)
+
+
+---
+
+
 ## Explicit Technology Readiness & Hardware Disclaimer
 
 > **IMPORTANT NOTICE ON SIMULATION STATUS:**
@@ -37,6 +47,12 @@ direct-field-transmutation/
 └── simulation/
   └── field_transmutation_sim.py
 ```
+## Acknowledgements & Collaboration
+
+The field-coupling equations, non-equilibrium bond decay models, and numerical simulation scripts in this repository were formulated collaboratively between **Abhishek Singh** and **Google Gemini** as part of an R&D exploration into non-thermal metallurgy.
+
+* **Conceptual Blueprint & Physics Directives:** Abhishek Singh
+* **Field Equation Inversion & Simulation Engineering:** AI Assistance via Gemini (Google AI)
 
 
 
