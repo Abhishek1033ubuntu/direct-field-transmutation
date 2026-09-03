@@ -65,7 +65,7 @@ This module simulates the non-thermal barrier decay and quantum tunneling dynami
 
 ### Validation Graph
 
-![Attosecond Field Crossover Curve](attosecond_field_crossover.png)
+![Attosecond Field Crossover Curve](assets/attosecond_field_crossover.png)
 
 *Figure 1: Non-linear barrier attenuation (solid blue curve) and WKB quantum tunneling probability (dashed green curve) for Si-O bonds under sub-100-attosecond field excitation at 4.2 K.*
 
