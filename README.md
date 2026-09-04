@@ -8,8 +8,12 @@
 
 
 ---
+> [!IMPORTANT]
+> **Repository Migration Notice**  
+> This standalone module has been integrated into the unified **[Sub-Atomic Materials Suite Monorepo](https://github.com/Abhishek1033ubuntu/subatomic-materials-suite/tree/main/01_direct-field-transmutation)**.  
+> Future updates, multi-physics integration, and execution scripts are maintained in the new repository.
 
-
+---
 ## Explicit Technology Readiness & Hardware Disclaimer
 
 > **IMPORTANT NOTICE ON SIMULATION STATUS:**
